@@ -1,41 +1,41 @@
-Name
-Internal Contract
-Labor Card Position
-KHDA Approved Position
-Designation
-Deparment
-Date of Join (DOJ)
-Nationality
-Gender
-Marital Status
-Contract Type
-Termination Date
-MOL Number
-MOL Start date
-MOL Expiry Date
-Emirates ID
-Emirates ID Expiry
-Visa Sponsorship
-Residence Visa number
-Residence Expiry
-Date of Birth
-Passport number
-Passport expiry
-Medical Insurance Status
-Basic Salary
-Transportation
-Other Allowance
-Total Salary in AED
-Responsibilty Allowance
-Total in AED
-Accommodation
-OHCX
-H.C Exp.
-Qualifications
-Mobile Number
-Email Address
-Personal Email Address
-Local Address
-Home Address
-Local Emergency Contact
-Home Country Emergency Contact
+name
+internal_contract
+labor_cardPosition
+khda_approvedPosition
+designation
+deparment
+date_of_join
+nationality
+gender
+maritalStatus
+contractType
+terminationDate
+molNumber
+molStartdate
+molExpiryDate
+emiratesID
+emiratesIDExpiry
+visaSponsorship
+residenceVisanumber
+residenceExpiry
+dateofBirth
+passport_number
+passportExpiry
+medicalInsuranceStatus
+basicSalary
+transportation
+otherAllowance
+totalSalaryinAED
+responsibiltyAllowance
+totalinAED
+accommodation
+ohcx
+hCExp
+qualifications
+mobile_Number
+emailAddress
+personalEmailAddress
+localAddress
+homeAddress
+localEmergencyContact
+homeCountryEmergencyContact
